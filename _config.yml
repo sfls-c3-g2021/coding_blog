@@ -382,3 +382,7 @@ deploy:
   type: git
   repo: https://github.com/<yourAccount>/<repo> # or https://gitee.com/<yourAccount>/<repo>
   branch: <your-branch>
+  
+  
+netlify_cms:
+  config_file: netlify.yml
